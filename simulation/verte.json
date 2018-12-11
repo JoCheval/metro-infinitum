@@ -1,0 +1,46 @@
+{
+    "color":"green",
+    "stations":[
+        {
+            "name":"Garage Angrignon",
+            "coord":[45.445877, -73.607430],
+            "next_dist":500,
+            "n_wagons_stopover": null
+        },
+        {
+            "name":"Angrignon",
+            "coord":[45.446371, -73.603518],
+            "next_dist":1000,
+            "n_wagons_stopover": 1
+        },
+        {
+            "name":"Monk",
+            "coord":[45.450948, -73.593463],
+            "next_dist":1200,
+            "n_wagons_stopover": 1
+        },
+        {
+            "name":"Jolicoeur",
+            "coord":[45.456772, -73.581998],
+            "next_dist":900,
+            "n_wagons_stopover": 1
+        },
+        {
+            "name":"Verdun",
+            "coord":[45.459251, -73.571370],
+            "next_dist":500,
+            "n_wagons_stopover": 1
+        },
+        {
+            "name":"De l'Église",
+            "coord":[45.462404, -73.566485],
+            "next_dist":null,
+            "n_wagons_stopover": null
+        }
+    ]
+}
+
+
+
+
+

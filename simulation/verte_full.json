@@ -1,0 +1,422 @@
+{
+
+    "color":"green",
+
+    "stations":[
+
+        {
+
+            "name":"Garage Angrignon",
+
+            "coord":[45.445877, -73.607430],
+
+            "next_dist":500,
+
+            "n_wagons_stopover": null
+
+        },
+
+        {
+
+            "name":"Angrignon",
+
+            "coord":[45.446371, -73.603518],
+
+            "orientation":0.0,
+
+            "next_dist":1000,
+
+            "n_wagons_stopover": null
+
+        },
+
+        {
+
+            "name":"Monk",
+
+            "coord":[45.450948, -73.593463],
+
+            "orientation":0.0,
+
+            "next_dist":1200,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Jolicoeur",
+
+            "coord":[45.456772, -73.581998],
+
+            "orientation":0.0,
+
+            "next_dist":900,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Verdun",
+
+            "coord":[45.459251, -73.571370],
+
+            "orientation":0.0,
+
+            "next_dist":500,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"De l'Église",
+
+            "coord":[45.462404, -73.566485],
+
+            "orientation":0.0,
+
+            "next_dist":1200,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"LaSalle",
+
+            "coord":[45.470872, -73.566154],
+
+            "orientation":0.0,
+
+            "next_dist":900,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Charlevoix",
+
+            "coord":[45.478147, -73.569297],
+
+            "orientation":0.0,
+
+            "next_dist":1000,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Lionel-Groulx",
+
+            "coord":[45.482850, -73.579664],
+
+            "orientation":0.0,
+
+            "next_dist":900,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Atwater",
+
+            "coord":[45.489202, -73.584685],
+
+            "orientation":0.0,
+
+            "next_dist":640,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Guy-Concordia",
+
+            "coord":[45.494485, -73.580696],
+
+            "orientation":0.0,
+
+            "next_dist":850,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Peel",
+
+            "coord":[45.500914, -73.574722],
+
+            "orientation":0.0,
+
+            "next_dist":440,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"McGill",
+
+            "coord":[45.503970, -73.571485],
+
+            "orientation":0.0,
+
+            "next_dist":540,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Place-des-Arts",
+
+            "coord":[45.508244, -73.568309],
+
+            "orientation":0.0,
+
+            "next_dist":400,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Saint-Laurent",
+
+            "coord":[45.510835, -73.564871],
+
+            "orientation":0.0,
+
+            "next_dist":585,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Berri-UQAM",
+
+            "coord":[45.514878, -73.559706],
+
+            "orientation":0.0,
+
+            "next_dist":565,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Beaudry",
+
+            "coord":[45.518966, -73.555885],
+
+            "orientation":0.0,
+
+            "next_dist":610,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Papineau",
+
+            "coord":[45.523679, -73.552038],
+
+            "orientation":0.0,
+
+            "next_dist":1100,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Frontenac",
+
+            "coord":[45.533161, -73.552214],
+
+            "orientation":0.0,
+
+            "next_dist":970,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Préfontaine",
+
+            "coord":[45.541518, -73.554379],
+
+            "orientation":0.0,
+
+            "next_dist":660,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Joliette",
+
+            "coord":[45.547082, -73.551514],
+
+            "orientation":0.0,
+
+            "next_dist":795,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Pie-IX",
+
+            "coord":[45.554028, -73.551820],
+
+            "orientation":0.0,
+
+            "next_dist":870,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Viau",
+
+            "coord":[45.561135, -73.547207],
+
+            "orientation":0.0,
+
+            "next_dist":920,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Assomption",
+
+            "coord":[45.569300, -73.546763],
+
+            "orientation":0.0,
+
+            "next_dist":850,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Cadillac",
+
+            "coord":[45.576884, -73.546466],
+
+            "orientation":0.0,
+
+            "next_dist":700,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Langelier",
+
+            "coord":[45.582728, -73.542970],
+
+            "orientation":0.0,
+
+            "next_dist":820,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Radisson",
+
+            "coord":[45.589506, -73.539300],
+
+            "orientation":0.0,
+
+            "next_dist":900,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Honoré-Beaugrand",
+
+            "coord":[45.596741, -73.534485],
+
+            "orientation":0.0,
+
+            "next_dist":410,
+
+            "n_wagons_stopover": 1
+
+        },
+
+        {
+
+            "name":"Garage Honoré-Beaugrand",
+
+            "coord":[45.600206, -73.532636],
+
+            "next_dist":null,
+
+            "n_wagons_stopover": null
+
+        }
+
+    ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
